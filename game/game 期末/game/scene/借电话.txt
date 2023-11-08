@@ -1,0 +1,4 @@
+:你背过头，准备从背包拿出电话，不料，美女突然晕倒，正当你准备把她扶起来 -fontSize=default;
+:突然，美女拔枪射向你的心脏，你就这样死在了下雨天。 -fontSize=default;
+changeBg:å³æ¶AI_img (2).png;
+:任务失败！ -fontSize=default;

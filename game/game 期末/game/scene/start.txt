@@ -1,0 +1,15 @@
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:你好|欢迎来到2500年，距XX国排放核污水已经过去477年，核污水泛滥，城市废墟，|海洋生物成为怪物，人类基因突变大多数人是畸形异变人，天空笼罩在浓重的污染之下。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:开头mg.png -next;
+setAnimation:enter-from-left -target=fig-left -next;
+:你作为为数不多的正常人，身处废弃的城市中，需要寻找食物和资源来生存。 -fontSize=default;
+:此外，你得知地球上的人类基地已经建立在宇宙中的某个行星上，需要寻找逃离地球的方法。 -fontSize=default;
+changeBg:怪物狗___.png;
+:你需要寻找残存的科技设备和资料，解密获得逃离地球的关键信息。遭遇其他突变人类或者怪物，需要与之交涉或者战斗，保护自己，确保生存。 -fontSize=default;
+并且在三个月内到达人类基地，否则等待你的只有死亡！！！ -fontSize=default;
+setTransition: -target= -enter=enter-from-left -exit=;
+changeBg:出战ing___.png -next;
+:你认清现实，整装待发，为筹集武器，来到一处军事基地 -v1.wav -fontSize=default;
+:你准备先行混入他们的私人军队，以便于后期偷走武器。 -fontSize=default;
+choose:进入大部队:跟着大部队.txt|单独训练:单独.txt;
