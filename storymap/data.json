@@ -1,0 +1,63 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "map_type": "stamen:toner-labels",
+        "slides": [
+            {
+                "date": "2023-11-06",
+                "location": {
+                    "line": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://img0.baidu.com/it/u=1545618258,1490494697&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"
+                },
+                "text": {
+                   
+                    "headline": "四川火锅",
+                    "text": "基于地图的交互叙事作品"
+                },
+                "type": "overview"
+            },
+            {
+                "date": "2013-11-06",
+                "location": {
+                    "lat": 30.646111,
+                    "line": true,
+                    "lon": 104.001409,
+                    "zoom": 46
+                },
+                "media": {
+                    "caption": "锦庭院火锅",
+                    "credit": "本地人的选择",
+                    "url": "https://haokan.baidu.com/v?pd=wisenatural&vid=7981279066077203805"
+                },
+                "text": {
+                    "headline": "火锅的历史",
+                    "text": "四川火锅的出现大约在清代道光年间，以麻辣鲜香著名，从古至今消费群体广泛，已经是四川和重庆地区独一无二的名片"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 30.65971,
+                    "line": true,
+                    "lon": 103.985277,
+                    "zoom": 67
+                },
+                "media": {
+                    "caption": "品牌连锁火锅，更值得信赖",
+                    "credit": "成都市十步一火锅店，只要是连锁的，就不怕味道不好",
+                    "url": "https://img.91huoke.com/xxfl/hk91/customer/44683/0eYGjB9sVtyTCMdrb0zmq6qDXJ57DDdmMSA88c4i.png"
+                },
+                "text": {
+                    "headline": "介绍",
+                    "text": "火锅来源于民间，升华于庙堂，无论是贩夫走卒、达官显宦、文人骚客、商贾农工，还是红男绿女、黄发垂髫，其消费群体涵盖之广人均消费次数之大，都是他地望尘莫及的。作为一种美食，火锅已成为四川和重庆两地的代表美食，截至2023年1月四川火锅已走向全球五十余个国家和地区料理师们会因地制宜 将川味火锅与当地饮食习惯结合，又衍生出许多别的口味"
+                }
+            }
+        ]
+    }
+}
